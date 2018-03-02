@@ -1,0 +1,8 @@
+I am tryimg to install pygame, I keeo getting this error message.
+
+I have Xcode and XQuartz along with pythn 3 installed, however when I go to install homebrew I get the follwoing.
+
+-bash: curl: command not found
+-bash: ruby: command not found
+
+Anyone help please??
